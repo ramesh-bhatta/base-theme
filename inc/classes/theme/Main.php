@@ -9,7 +9,10 @@ class Main{
     }
 
     public function init_theme(){
-        var_dump("ok");
-        die;
+        
+    }
+
+    public function setup_theme(){
+        
     }
 }
